@@ -9,7 +9,7 @@ ___
 
 <! GitHub>
 
-*[X] Task 1
+* [X] Task 1
 
 * [ ] Task 2
 
